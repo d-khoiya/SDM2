@@ -1,0 +1,3 @@
+third file of afternoon session made using touch command, editing using the vi editor. vi filename.extension.
+to exit press esc and shift+z twice
+
